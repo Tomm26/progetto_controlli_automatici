@@ -9,8 +9,8 @@ mi=5;
 ei=0.1;
 ie=50;
 
-x0=[7*pi/6;50];
-interv=0:0.1:40;
+x0=[7*pi/6;0];
+interv=0:0.2:100;
 
 width=0.1;
 heigth=1;
